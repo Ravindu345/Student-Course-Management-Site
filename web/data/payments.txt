@@ -1,0 +1,22 @@
+
+=== New Payment ===
+Date: 2025-05-22 22:11:59
+User ID: null
+Payment Method: creditCard
+Payment Details: Card: 1223 **** **** 4444, Expiry: 02/30, Name: john doe
+Total Amount: $200.00
+Items:
+- hghj ($200.0) - john
+================
+
+
+=== New Payment ===
+Date: 2025-05-22 22:16:17
+User ID: null
+Payment Method: bankTransfer
+Payment Details: Bank Transfer
+Total Amount: $2.00
+Items:
+- angle2 ($2.0) - lol
+================
+

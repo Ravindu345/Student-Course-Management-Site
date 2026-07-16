@@ -1,0 +1,6 @@
+bismail@mail.com,2025-05-22,true
+luffy@gmail.com,2025-05-22,true
+harry@mail.com,2025-05-22,true
+moochi@gmail.com,2025-05-22,true
+madhura@mail.com,2025-05-22,true
+ravvindu@mail.com,2025-05-22,true
