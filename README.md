@@ -1,4 +1,4 @@
-# FinalWebProject
+# Year 01.02 FinalWebProject
 
 <img width="1899" height="918" alt="1" src="https://github.com/user-attachments/assets/cab4c594-9bd4-4e45-82ee-3490bf6b05b0" />
 <img width="1915" height="919" alt="2" src="https://github.com/user-attachments/assets/e7f1da17-8c73-4e55-8e88-cf0a23091a39" />
